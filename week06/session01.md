@@ -1,6 +1,6 @@
 ---
 course: COMP6210
-week: 04
+week: 06
 lesson: "01"
 topic: php-oop
 ---
