@@ -1,0 +1,12 @@
+{
+    "name": "mytest/phptest101",
+    "description": "Learning PHPUnit",
+    "require": {
+        "phpunit/phpunit": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
