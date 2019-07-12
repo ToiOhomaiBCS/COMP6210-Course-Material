@@ -30,7 +30,7 @@ Once it is installed - or if you are using the preinstalled version on the lab P
 
 This will open the XAMPP control panel which looks like this:
 
-![XAMPP Control Panel](./images/XAMPP_1.jpg)
+![XAMPP Control Panel](../images/XAMPP_1.jpg)
 
 Once you click start your server is up an running and you can store your webfiles in the htdocs folder which should be located in your H: drive. **Note: this will appear after you run a script, if it is not there already**
 
@@ -50,11 +50,11 @@ There is also a disadvantage, which is: You will other things on your PC that ma
 
 To setup PHP locally on your machine you will need to install it. This method is slightly different depending on the operating system you use. So click on the link below that matches your system.
 
-* [Install it on Windows](01a-Install-PHP-on-Windows.md)
+* [Install it on Windows](../extra/01a-Install-PHP-on-Windows.md)
 
-* [Install it on Linux (Debian System)](01b-Install-PHP-on-Linux-Debian.md)
+* [Install it on Linux (Debian System)](../extra/01b-Install-PHP-on-Linux-Debian.md)
 
-* [Install it on macOS ](01c-Install-PHP-on-macOS.md)
+* [Install it on macOS ](../extra/01c-Install-PHP-on-macOS.md)
 
 # 3. Using a container system like Docker
 
