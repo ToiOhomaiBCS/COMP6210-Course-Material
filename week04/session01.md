@@ -2,7 +2,7 @@
 course: COMP6210
 week: 04
 lesson: "01"
-topic: intro-to-php-part-2
+topic: intro-to-php-part-1
 ---
 
 # Introduction to PHP
