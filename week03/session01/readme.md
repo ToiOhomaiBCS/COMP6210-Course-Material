@@ -11,9 +11,13 @@ topic: intro-to-javascript
 
 Javascript is used for adding dynamic features to your website and all of this processing is done in the client's browser.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9KTPlW9cXfqWaif_3A1oLPyvAFLf5fdehjgFHws1-TXg5VdJwGxeXJL_lJhprD8Ve1cDdvyxlpe6M/embed?start=false&amp;loop=false" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+View the Slides [here](https://docs.google.com/presentation/d/e/2PACX-1vQ9KTPlW9cXfqWaif_3A1oLPyvAFLf5fdehjgFHws1-TXg5VdJwGxeXJL_lJhprD8Ve1cDdvyxlpe6M/embed?start=false&amp;loop=false)
 
 ## Javascript Documentation
+
+Although Javascript is a programming language in its own right, we won't have to start from scratch. A lot of the things you can do in JavaScript should look familiar to you already.
+
+Let's have a look at some basics by looking on the official mozilla documentation site.
 
 * [Hello World](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#A_hello_world_example)
 
@@ -22,6 +26,10 @@ Javascript is used for adding dynamic features to your website and all of this p
 * [Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 ## Some Other Javascript Resources
+
+Just like any language, there are some things that are more unique to JavaScript that may not be so straight forward in other languages. 
+
+If you want to get better at doing Front End Development, the following resources are a good start.
 
 * High order functions => [Higher-order functions - Part 1 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&t=223)
 

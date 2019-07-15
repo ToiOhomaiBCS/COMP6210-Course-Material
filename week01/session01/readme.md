@@ -50,11 +50,11 @@ There is also a disadvantage, which is: You will other things on your PC that ma
 
 To setup PHP locally on your machine you will need to install it. This method is slightly different depending on the operating system you use. So click on the link below that matches your system.
 
-* [Install it on Windows](../extra/01a-Install-PHP-on-Windows.md)
+* [Install it on Windows](../extra/01a-Install-PHP-on-Windows.pdf)
 
-* [Install it on Linux (Debian System)](../extra/01b-Install-PHP-on-Linux-Debian.md)
+* [Install it on Linux (Debian System)](../extra/01b-Install-PHP-on-Linux-Debian.pdf)
 
-* [Install it on macOS ](../extra/01c-Install-PHP-on-macOS.md)
+* [Install it on macOS ](../extra/01c-Install-PHP-on-macOS.pdf)
 
 # 3. Using a container system like Docker
 

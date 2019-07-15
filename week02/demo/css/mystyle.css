@@ -1,0 +1,23 @@
+.topbar {
+
+  display: grid;
+  grid-column: 1fr;
+
+  background-color: #0066cc;
+  height: 500px;  
+
+  background-image: url('../images/2023.jpg');
+  background-size: 400px;
+
+}
+
+.topbar > h1 {
+  display: grid;
+  align-content: center;
+  justify-content: center;
+
+  /* line-height: 75px; */
+  color: #fff;
+  /* padding-left: 20px; */
+}
+
