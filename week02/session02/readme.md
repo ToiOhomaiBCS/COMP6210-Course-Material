@@ -5,6 +5,8 @@ lesson: "02A"
 topic: HTML-CSS-Revision
 ---
 
+[![Print](https://img.shields.io/badge/DOWNLOAD_PDF-CLICK_HERE-green.svg)](https://github.com/ToiOhomaiBCS/COMP6210-Course-Material/raw/master/week02/session02/readme.pdf)
+
 # Revision
 
 Previously you have learned HTML and CSS and a little bit of JavaScript.

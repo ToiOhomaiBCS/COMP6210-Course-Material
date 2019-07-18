@@ -5,6 +5,8 @@ lesson: "01A"
 topic: assessment-explanation
 ---
 
+[![Print](https://img.shields.io/badge/DOWNLOAD_PDF-CLICK_HERE-green.svg)](https://github.com/ToiOhomaiBCS/COMP6210-Course-Material/raw/master/week02/session01/assessment-outline.pdf)
+
 # Assessments
 
 You can view the assessments and the marking schedules here:

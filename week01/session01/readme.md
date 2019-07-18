@@ -5,6 +5,8 @@ lesson: 01
 topic: introduction-and-setup
 ---
 
+[![Print](https://img.shields.io/badge/DOWNLOAD_PDF-CLICK_HERE-green.svg)](https://github.com/ToiOhomaiBCS/COMP6210-Course-Material/raw/master/week01/session01/readme.pdf)
+
 # Setting up your Development Environtment
 
 To run a PHP script you need a server-side environment on your machine.
@@ -35,6 +37,8 @@ This will open the XAMPP control panel which looks like this:
 Once you click start your server is up an running and you can store your webfiles in the htdocs folder which should be located in your H: drive. **Note: this will appear after you run a script, if it is not there already**
 
 Although this method is simple and easy to setup. As written [here](https://www.apachefriends.org/hosting.html) XAMPP is not recommended for a production setup. Although this is not problem when you are learning PHP - it will need to tested before you submnit your assessment.
+
+**NOTE** In the K Drive there is a COMP.6210 folder that has a script in it that moved the HTDOCS and the right permissions for your user account. You MUST run this to protect your work, or else anyone has access to it.
 
 # 2. Installing PHP using the CLI
 
@@ -100,3 +104,4 @@ As mentioned above using XAMPP is probably the simplest method, but in the long 
 
 You will need to learn to debug any errors you may run into when running your setup.
 
+It does not matter what choice of setup you use for your assignments, but you must test it on another machine to make sure it works and in your report, you must include **CLEARLY** in your report.

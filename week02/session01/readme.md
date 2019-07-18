@@ -5,6 +5,8 @@ lesson: 01
 topic: Web Design Methodologies
 ---
 
+[![Print](https://img.shields.io/badge/DOWNLOAD_PDF-CLICK_HERE-green.svg)](https://github.com/ToiOhomaiBCS/COMP6210-Course-Material/raw/master/week02/session01/readme.pdf)
+
 # Session 1 Part 1 - Assignment Discussion
 
 Discuss the [assessment](./assessment-outline.pdf).
