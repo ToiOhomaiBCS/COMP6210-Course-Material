@@ -1,3 +1,13 @@
+---
+course: COMP6210
+week: 01
+lesson: 01
+topic: installation-on-windows
+---
+
+[![Print](https://img.shields.io/badge/DOWNLOAD_PDF-CLICK_HERE-green.svg)](https://github.com/ToiOhomaiBCS/COMP6210-Course-Material/raw/master/week01/extra/01a-Install-PHP-on-Windows.pdf)
+
+
 # Installing PHP on Windows
 
 PHP has a CLI - which is a Command Line Interface Tool.
