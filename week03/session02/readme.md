@@ -5,6 +5,8 @@ lesson: "02"
 topic: bootstrap-and-javadscript
 ---
 
+[![Print](https://img.shields.io/badge/DOWNLOAD_PDF-CLICK_HERE-green.svg)](https://github.com/ToiOhomaiBCS/COMP6210-Course-Material/raw/master/week03/session02/readme.pdf)
+
 # Creating a template page
 
 Let's have a look at how an api works and how we can pull in data.

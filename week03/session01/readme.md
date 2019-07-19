@@ -5,6 +5,8 @@ lesson: "01"
 topic: intro-to-javascript
 ---
 
+[![Print](https://img.shields.io/badge/DOWNLOAD_PDF-CLICK_HERE-green.svg)](https://github.com/ToiOhomaiBCS/COMP6210-Course-Material/raw/master/week03/session01/readme.pdf)
+
 # Client side scripting
 
 ## Introduction to Javascript
@@ -39,7 +41,7 @@ If you want to get better at doing Front End Development, the following resource
 
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
-* [Code Sandbox](https://codesandbox.io/s/vanilla
+* [Code Sandbox](https://codesandbox.io/s/vanilla)
 
 ## What about JQuery?
 
