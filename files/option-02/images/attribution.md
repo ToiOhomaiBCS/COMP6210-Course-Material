@@ -1,0 +1,1 @@
+All images in this folder are sourced form https://pexels.com and can be used under their [license which you can read here](https://www.pexels.com/photo-license/)
